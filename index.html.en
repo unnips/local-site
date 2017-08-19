@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+   <link rel="stylesheet" type="text/css" href="style.css?version="+ DateTime.Now.ToString("yyyyMMddhhmmss") +"'">
+   <title>Beyond Thoughts Learning</title>
+  </head> 
+  <body>  
+    <div class=LayOuts>
+      <div class=Container1 >
+      </div>
+      <div class=Container2 >
+      </div>
+        <div class=Container3 >
+          <ul>
+            <li> This is First Item</li>
+            <li> This is Second Item</li>
+            <li> This is Third Item</li>
+          </ul>
+        </div>
+      </div>
+  </body> 
+</html>

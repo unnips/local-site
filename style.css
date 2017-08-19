@@ -1,0 +1,61 @@
+
+.Container1 {
+  position: static;
+  background-color: #e0a894;
+  width: 140px;
+  height: 230px;
+}
+
+.Container2 {
+  position: static;
+  background-color: #ecd590;
+  width: 140px;
+  height: 230px;
+}
+
+.Container3 {
+  position: static;
+  background-color: #efe3e3;
+  width: 380px;
+  height: 230px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  background-color: #f2fb99;
+  display: inline-block;
+  width: 120px;
+  height: 70px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+#box1 {
+  display: inline-block;
+  position: static;
+  background-color: red;
+  width: 120px;
+  height: 70px;
+}
+
+#box2 {
+  display: inline-block;
+  position: static;
+  background-color: green;
+  width: 120px;
+  height: 70px;
+}
+
+#box3 {
+  display: inline-block;
+  position: static;
+  background-color: blue;
+  width: 120px;
+  height: 70px;
+}
+
+
+
